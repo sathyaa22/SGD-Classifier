@@ -20,7 +20,7 @@ Step 5: Make Predictions and Evaluate Accuracy
 
 Step 6: Generate Confusion Matrix
 
-Step 7: End the program.
+Step 7: Stop the program.
 
 ## Program:
 
