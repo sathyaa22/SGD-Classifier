@@ -78,10 +78,13 @@ print(cm)
 
 ## Output:
 
-
 ![Screenshot 2024-09-19 085935](https://github.com/user-attachments/assets/0edb7cc4-1ae4-46ca-a1bc-e8557452fbd1)
 
+Accuracy:
+
 ![Screenshot 2024-09-19 090929](https://github.com/user-attachments/assets/c470f02a-eb31-48ec-a904-7735f19de4ce)
+
+Confusion matrix:
 
 ![Screenshot 2024-09-19 091058](https://github.com/user-attachments/assets/c087dcaf-0aa0-4412-bcaa-fba26a6f9c7c)
 
